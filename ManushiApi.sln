@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManushiApi", "ManushiApi\ManushiApi.csproj", "{D3AE6E50-10EA-46A0-B0B8-4ED62CD2B223}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManushiApi.Entities", "ManushiApi.Entities\ManushiApi.Entities.csproj", "{6D1BAD3E-2C32-440A-820E-2D7E36444258}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManushiApi.Interfaces", "ManushiApi.Interfaces\ManushiApi.Interfaces.csproj", "{FF7A60EE-2115-49BD-A33D-834A186F4A67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManushiApi.Repositories", "ManushiApi.Repositories\ManushiApi.Repositories.csproj", "{EDFCB802-7637-406E-B22C-D022DA71B4A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManushiApi.Services", "ManushiApi.Services\ManushiApi.Services.csproj", "{0A078596-4116-4C8C-AEFE-C1EC4F5269EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3AE6E50-10EA-46A0-B0B8-4ED62CD2B223}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3AE6E50-10EA-46A0-B0B8-4ED62CD2B223}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3AE6E50-10EA-46A0-B0B8-4ED62CD2B223}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3AE6E50-10EA-46A0-B0B8-4ED62CD2B223}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D1BAD3E-2C32-440A-820E-2D7E36444258}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D1BAD3E-2C32-440A-820E-2D7E36444258}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D1BAD3E-2C32-440A-820E-2D7E36444258}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D1BAD3E-2C32-440A-820E-2D7E36444258}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF7A60EE-2115-49BD-A33D-834A186F4A67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF7A60EE-2115-49BD-A33D-834A186F4A67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF7A60EE-2115-49BD-A33D-834A186F4A67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF7A60EE-2115-49BD-A33D-834A186F4A67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDFCB802-7637-406E-B22C-D022DA71B4A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDFCB802-7637-406E-B22C-D022DA71B4A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDFCB802-7637-406E-B22C-D022DA71B4A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDFCB802-7637-406E-B22C-D022DA71B4A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A078596-4116-4C8C-AEFE-C1EC4F5269EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A078596-4116-4C8C-AEFE-C1EC4F5269EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A078596-4116-4C8C-AEFE-C1EC4F5269EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A078596-4116-4C8C-AEFE-C1EC4F5269EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
